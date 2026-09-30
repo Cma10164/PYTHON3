@@ -1,0 +1,5 @@
+Numero1 = int (input("dame un numero entero"))
+Numero2 = int (input("dame un segundo numero entero"))
+cociente = int(Numero1 / Numero2)
+resto = int(Numero1 % Numero2)
+print(f"La {Numero1} entre {Numero2} da un cociente {cociente} y un resto {resto} ")
